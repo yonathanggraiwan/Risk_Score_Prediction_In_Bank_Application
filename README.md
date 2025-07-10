@@ -3,10 +3,8 @@
 ## Repository Outline
 ```
 - README(description).md | Overview of the project description.
-- P1M2_Yonathan_Anggraiwan.ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
-- P1M2_Yonathan_Anggraiwan_inf.ipynb | This notebook containing the codes for model inference using Python and Pipelines.
-- P1M2_Yonathan_Anggraiwan_dataset.csv | CSV dataset used for data analysis and making models.
-- P1M2_Yonathan_Anggraiwan_conceptual.txt | A text file explaining conceptual problems, including the background and mechanism of bagging, the differences between how the Random Forest and Boosting algorithms work, and an explanation of Cross Validation.
+- Risk_Score_Prediction_In_Bank_Application_Yonathan_Anggraiwan.ipynb | This notebook containing the codes and explanation of the data processing steps using Python.
+- Risk_Score_Prediction.csv | CSV dataset used for data analysis and making models.
 ```
 
 ## Problem Background
