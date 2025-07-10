@@ -23,8 +23,8 @@ The dataset used in this project comes from [Kaggle](https://www.kaggle.com/data
 `The programming language used in this project is Python, with VSCode as the development tool. The libraries used include pandas, scipy, statistics, numpy, matplotlib, seaborn, plotly.express, sklearn, and xgboost. Data visualization is also presented in EDA section and huggingface website.`
 
 ## Reference
-`The supporting link for the results of this project analysis can be found in the following project dashboard link:
-https://huggingface.co/spaces/rvpishere/Risk_Score_Prediction_In_Bank_Loan_Application`
+The supporting link for the results of this project analysis can be found in the following project dashboard link:
+[HuggingFace](https://huggingface.co/spaces/rvpishere/Risk_Score_Prediction_In_Bank_Loan_Application)
 
 ---
 
