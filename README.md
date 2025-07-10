@@ -10,14 +10,13 @@
 ```
 
 ## Problem Background
-`I am a data analyst working in a department store. On this occasion, the store owner has asked me to analyze the annual sales data from their stores. I need to generate accurate analytical insights using statistics and create a visualization dashboard to answer key questions from the store executives.`
+`I am a data scientist working at a financial institution, namely Bank Hebat. A manager has asked me to develop a risk score prediction model for individuals applying for loans at Bank Hebat. The goal is to identify which features or variables influence a person’s risk score when applying for credit, and to process these variables to build a high-performing model that achieves high accuracy and low error rates in predicting the score. This risk score is needed when the bank wants to assess whether a customer poses a high risk in repaying or settling their loan.`
 
 ## Project Output
 `The output of my project this time is best model to predict customer risk score (with regression, predict loan status approval (with classification), and present the result using huggingface website.`
 
 ## Data
-`The dataset used in this project comes from Kaggle (https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval/data). It contains customer financial informations, with 20,000 rows and 36 columns. The dataset is considered clean, with no duplicate entries or missing values.
-`
+The dataset used in this project comes from [Kaggle](https://www.kaggle.com/datasets/lorenzozoppelletto/financial-risk-for-loan-approval/data). It contains customer financial informations, with 20,000 rows and 36 columns. The dataset is considered clean, with no duplicate entries or missing values.
 
 ## Method
 `In this moment, I compare five machine learning algorithms to predict an individual's RiskScore: KNN Regressor, Decision Tree Regressor, Random Forest Regressor, SVM Regressor, and XGBoost Regressor. The performance of these algorithms is evaluated based on their error score (MAE) and R² score, obtained through 5-fold Cross Validation for each algorithm. The best-performing algorithm will be further refined using hyperparameter tuning, after which the model will be saved and deployed on Hugging Face for inference and user access.`
@@ -34,3 +33,4 @@ https://huggingface.co/spaces/rvpishere/Risk_Score_Prediction_In_Bank_Loan_Appli
 **Additional Information:**
 Contact Person:
 - [E-mail](yonathan.anggraiwan.work@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/yonathan-anggraiwan-work/)
